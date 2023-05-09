@@ -81,6 +81,19 @@ It shows detailed info about that game such as the rules, tutorial videos, and m
   - API Request
   - Date customization and time conversion (Data Formatter)
   - CoreLocation
+ 
+   ## Virtual Tourist App  
+  _check more details [here](https://github.com/marinaaguiar/VirtualTouristUdacity)_
+  
+ The Virtual Tourist app downloads and stores images from Flickr. The app allows users to drop pins on a map, as if they were stops on a tour. Users will then be able to download pictures for the location and persist both the pictures, and the association of the pictures with the pin.
+  
+ **Features** 
+ - MVVM Design Pattern
+ - Data persistence using Core Data and UserDefaults
+ - Haptic Touch with UIImpactFeedbackGenerator
+ - MapKit and Dragging Annotation States
+ - UIPressGestureRecognizer
+ - Swift Package Manager (Framework: KingFisher)
 
 
 
