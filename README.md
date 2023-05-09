@@ -70,9 +70,8 @@ It shows detailed info about that game such as the rules, tutorial videos, and m
   ## Virtual Tourist App 
   _check more details [here](https://github.com/marinaaguiar/VirtualTouristUdacity)_
 
-  <img width="842" alt="Screen Shot 2023-05-09 at 11 38 23 AM" src="https://github.com/marinaaguiar/marinaaguiar/assets/74434212/d3bd3c52-8730-4714-8edc-5f75e10364f8">
+  ![VirtualTouristApp](https://github.com/marinaaguiar/marinaaguiar/assets/74434212/053cd5ba-56e3-4049-b70d-cc99132a588e)
 
-  
   The Virtual Tourist app downloads and stores images from Flickr. The app allows users to drop pins on a map, as if they were stops on a tour. Users will then be able to download pictures for the location and persist both the pictures and the association of the pictures with the pin.
    **Features** 
   - MVVM Design Pattern
