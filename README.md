@@ -13,7 +13,7 @@ _she/her_
   - 🌎 I'm a Brazilian currently living in Porto, Portugal
   - 💻 I started dedicating myself to learn iOS Development in 2021
   - 📐 I have a background in architecture
-  - 💡 My interest in digital products came up when I started to working with with visual programming to develop mass customization products
+  - 💡 My interest in digital products came up when I started working with with visual programming to develop mass customization products
   - 👩🏼‍💻 I'm a volunteer in [WomenWhoCode](https://www.womenwhocode.com/) with the purpose of helping more women to get into the tech industry and stay
   - 📱 I'm currently learning SwiftUI
   
