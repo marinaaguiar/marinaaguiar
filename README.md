@@ -73,6 +73,7 @@ It shows detailed info about that game such as the rules, tutorial videos, and m
   ![VirtualTouristApp](https://github.com/marinaaguiar/marinaaguiar/assets/74434212/053cd5ba-56e3-4049-b70d-cc99132a588e)
 
   The Virtual Tourist app downloads and stores images from Flickr. The app allows users to drop pins on a map, as if they were stops on a tour. Users will then be able to download pictures for the location and persist both the pictures and the association of the pictures with the pin.
+ 
    **Features** 
   - MVVM Design Pattern
   - Data persistence using Core Data and UserDefaults
