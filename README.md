@@ -17,7 +17,8 @@ _she/her_
   - 👩🏼‍💻 I'm a volunteer in [WomenWhoCode](https://www.womenwhocode.com/) with the purpose of helping more women to get into the tech industry and stay
   - 📱 I'm currently learning SwiftUI
   
- ## iOS Projects
+  --- 
+  ### iOS Projects:
   
   ## Game Tracker 
   _check more details [here](https://github.com/marinaaguiar/GameTracker)_
