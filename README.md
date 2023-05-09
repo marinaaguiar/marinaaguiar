@@ -19,69 +19,79 @@
   - 👩🏼‍💻 I'm a volunteer in [WomenWhoCode](https://www.womenwhocode.com/) with the purpose of helping more women to get into the tech industry and stay
   - 📱 I'm currently learning Unit Tests and SwiftUI - most of my experience is working with Swift and UIKit
   
-  --- 
-  ### iOS Projects:
-  
-  ## Game Tracker 
+  ---
+ 
+  ## iOS Projects
+
+  ### Game Tracker 
   
 ![GameTrackerAppp](https://github.com/marinaaguiar/marinaaguiar/assets/74434212/b450d261-0f40-487b-b8fb-58326266fe67)
 
    _check more details [here](https://github.com/marinaaguiar/GameTracker)_
 
-  This app allows users to search for board games, through different categories.
+This app allows users to search for board games, through different categories.<br> 
 It shows detailed info about that game such as the rules, tutorial videos, and more!
 
-**Features** 
-  - MVC Design Pattern
-  - UICollectionView using Diffable Data Source
-  - ViewCode
-  - Reusable Cells
-  - RESTful API request from Board Games Atlas
-  - Swift Package Manager (Framework: KingFisher, MarkdownKit)
-  - Data persistence using Realm and UserDefaults
-  - Light and Dark Mode support
+##### Features 
+  _∘ MVC Design Pattern
+  ∘ UICollectionView using Diffable Data Source
+  ∘ ViewCode
+  ∘ Reusable Cells
+  ∘ RESTful API request from Board Games Atlas
+  ∘ Swift Package Manager (Framework: KingFisher, MarkdownKit)
+  ∘ Data persistence using Realm and UserDefaults
+  ∘ Light and Dark Mode support_
 
-  ## On the Map  
-  _check more details [here](https://github.com/marinaaguiar/OnTheMapAppUdacity)_
+### On the Map  
   
 ![OnTheMapApp](https://github.com/marinaaguiar/marinaaguiar/assets/74434212/53c056d6-0267-4d07-926f-2154a03f1b5c)
-
-  This app displays a map that shows information posted by other students. The map contains pins that show the location where other students have reported studying. By tapping on the pin users can see the student's website.
-
-**Features** 
-  - API Request
-  - Authenticating a user using over a network connection
-  - Facebook login
-  - Core Location
-  - MapKit
  
-   ## Weather App 
-  _check more details [here](https://github.com/marinaaguiar/WeatherApp-MVVM)_
-  
+  _check more details [here](https://github.com/marinaaguiar/OnTheMapAppUdacity)_
+ 
+ This app displays a map that shows information posted by other students.<br> 
+ The map contains pins that show the location where other students have reported studying.<br> 
+ By tapping on the pin users can see the student's website.
+
+##### Features 
+  _∘ API Request
+  ∘ Authenticating a user using over a network connection
+  ∘ Facebook login
+  ∘ Core Location
+  ∘ MapKit_
+
+ ### Weather App 
+ 
 ![WeatherApp](https://github.com/marinaaguiar/marinaaguiar/assets/74434212/d6a6bbca-96ad-4753-96b6-eff7ef5bf6d2)
-
   
-  Weather App is a tool that allows users to search for current temperature and weather conditions in their real location or in any other city they look for. Depending on the time of day, the screens will show different colored backgrounds and the icon representation of the given weather condition.  
+ _check more details [here](https://github.com/marinaaguiar/WeatherApp-MVVM)_
   
- **Features** 
-  - API Request
-  - Date customization and time conversion (Data Formatter)
-  - CoreLocation
+  Weather App is a tool that allows users to search for current temperature and 
+ weather conditions in their real location or in any other city they look for. 
+ Depending on the time of day, the screens will show different colored backgrounds 
+ and the icon representation of the given weather condition.  
+  
+ ##### Features 
+  _∘ API Request
+  ∘ Date customization and time conversion (Data Formatter)
+  ∘ CoreLocation_
 
-  ## Virtual Tourist App 
-  _check more details [here](https://github.com/marinaaguiar/VirtualTouristUdacity)_
+  ### Virtual Tourist App 
 
   ![VirtualTouristApp](https://github.com/marinaaguiar/marinaaguiar/assets/74434212/053cd5ba-56e3-4049-b70d-cc99132a588e)
+   _check more details [here](https://github.com/marinaaguiar/VirtualTouristUdacity)_
 
-  The Virtual Tourist app downloads and stores images from Flickr. The app allows users to drop pins on a map, as if they were stops on a tour. Users will then be able to download pictures for the location and persist both the pictures and the association of the pictures with the pin.
+  The Virtual Tourist app downloads and stores images from Flickr. 
+ The app allows users to drop pins on a map, as if they were stops on a tour. 
+ Users will then be able to download pictures for the location and persist both 
+ the pictures and the association of the pictures with the pin.
  
-   **Features** 
-  - MVVM Design Pattern
-  - Data persistence using Core Data and UserDefaults
-  - Haptic Touch with UIImpactFeedbackGenerator
-  - MapKit and Dragging Annotation States
-  - UIPressGestureRecognizer
-  - Swift Package Manager (Framework: KingFisher)
+  ##### Features 
+  _∘ MVVM Design Pattern
+  ∘ Data persistence using Core Data and UserDefaults
+  ∘ Haptic Touch with UIImpactFeedbackGenerator
+  ∘ MapKit and Dragging Annotation States
+  ∘ UIPressGestureRecognizer
+  ∘ Swift Package Manager (Framework: KingFisher)_
 
 
 
