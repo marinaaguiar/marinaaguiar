@@ -10,7 +10,7 @@ _she/her_
 
 ## About
 
-  - 🌎 I'm Brazilian, but I currently live in Porto, Portugal
+  - 🌎 I'm a Brazilian currently living in Porto, Portugal
   - 💻 I started dedicating myself to learn iOS Development in 2021
   - 📐 I have a background in architecture
   - 💡 My interest in digital products came up when I started to working with with visual programming to develop mass customization products
