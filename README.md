@@ -1,6 +1,8 @@
-### Hi there, I'm Marina! 👋
-_she/her_
 
+![Hi there, I'm Marina! (1)](https://github.com/marinaaguiar/marinaaguiar/assets/74434212/55b72fbe-58fb-4ded-b7f0-a8a210486aef)
+
+### Hi there, I'm Marina! 👋
+ 
 <!--FIRST SECTION-->
 <p align="left">
   <a href="https://www.linkedin.com/in/marina-aguiar/" alt="LinkedIn Link">
@@ -69,7 +71,10 @@ It shows detailed info about that game such as the rules, tutorial videos, and m
   
   ## Weather App 
   _check more details [here](https://github.com/marinaaguiar/WeatherApp-MVVM)_
+  
+![WeatherApp](https://github.com/marinaaguiar/marinaaguiar/assets/74434212/d6a6bbca-96ad-4753-96b6-eff7ef5bf6d2)
 
+  
   Weather App is a tool that allows users to search for current temperature and weather conditions in their real location or in any other city they look for. Depending on the time of day, the screens will show different colored backgrounds and the icon representation of the given weather condition.  
   
  **Features** 
