@@ -53,6 +53,19 @@ It shows detailed info about that game such as the rules, tutorial videos, and m
   - Facebook login
   - Core Location
   - MapKit
+ 
+   ## Weather App 
+  _check more details [here](https://github.com/marinaaguiar/WeatherApp-MVVM)_
+  
+![WeatherApp](https://github.com/marinaaguiar/marinaaguiar/assets/74434212/d6a6bbca-96ad-4753-96b6-eff7ef5bf6d2)
+
+  
+  Weather App is a tool that allows users to search for current temperature and weather conditions in their real location or in any other city they look for. Depending on the time of day, the screens will show different colored backgrounds and the icon representation of the given weather condition.  
+  
+ **Features** 
+  - API Request
+  - Date customization and time conversion (Data Formatter)
+  - CoreLocation
 
   ## Virtual Tourist App 
   _check more details [here](https://github.com/marinaaguiar/VirtualTouristUdacity)_
@@ -68,19 +81,6 @@ It shows detailed info about that game such as the rules, tutorial videos, and m
   - MapKit and Dragging Annotation States
   - UIPressGestureRecognizer
   - Swift Package Manager (Framework: KingFisher)
-  
-  ## Weather App 
-  _check more details [here](https://github.com/marinaaguiar/WeatherApp-MVVM)_
-  
-![WeatherApp](https://github.com/marinaaguiar/marinaaguiar/assets/74434212/d6a6bbca-96ad-4753-96b6-eff7ef5bf6d2)
-
-  
-  Weather App is a tool that allows users to search for current temperature and weather conditions in their real location or in any other city they look for. Depending on the time of day, the screens will show different colored backgrounds and the icon representation of the given weather condition.  
-  
- **Features** 
-  - API Request
-  - Date customization and time conversion (Data Formatter)
-  - CoreLocation
 
 
 
