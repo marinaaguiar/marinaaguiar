@@ -29,8 +29,7 @@
 
    _check more details [here](https://github.com/marinaaguiar/GameTracker)_
 
-This app allows users to search for board games, through different categories.<br> 
-It shows detailed info about that game such as the rules, tutorial videos, and more!
+This app allows users to search for board games, through different categories. It shows detailed info about that game such as the rules, tutorial videos, and more!
 
 ##### Features 
   _∘ MVC Design Pattern
@@ -48,9 +47,7 @@ It shows detailed info about that game such as the rules, tutorial videos, and m
  
   _check more details [here](https://github.com/marinaaguiar/OnTheMapAppUdacity)_
  
- This app displays a map that shows information posted by other students.<br> 
- The map contains pins that show the location where other students have reported studying.<br> 
- By tapping on the pin users can see the student's website.
+ This app displays a map that shows information posted by other students. The map contains pins that show the location where other students have reported studying. By tapping on the pin users can see the student's website.
 
 ##### Features 
   _∘ API Request
@@ -65,10 +62,7 @@ It shows detailed info about that game such as the rules, tutorial videos, and m
   
  _check more details [here](https://github.com/marinaaguiar/WeatherApp-MVVM)_
   
-  Weather App is a tool that allows users to search for current temperature and 
- weather conditions in their real location or in any other city they look for. 
- Depending on the time of day, the screens will show different colored backgrounds 
- and the icon representation of the given weather condition.  
+  Weather App is a tool that allows users to search for current temperature and weather conditions in their real location or in any other city they look for. Depending on the time of day, the screens will show different colored backgrounds and the icon representation of the given weather condition.  
   
  ##### Features 
   _∘ API Request
@@ -80,10 +74,7 @@ It shows detailed info about that game such as the rules, tutorial videos, and m
   ![VirtualTouristApp](https://github.com/marinaaguiar/marinaaguiar/assets/74434212/053cd5ba-56e3-4049-b70d-cc99132a588e)
    _check more details [here](https://github.com/marinaaguiar/VirtualTouristUdacity)_
 
-  The Virtual Tourist app downloads and stores images from Flickr. 
- The app allows users to drop pins on a map, as if they were stops on a tour. 
- Users will then be able to download pictures for the location and persist both 
- the pictures and the association of the pictures with the pin.
+  The Virtual Tourist app downloads and stores images from Flickr. The app allows users to drop pins on a map, as if they were stops on a tour. Users will then be able to download pictures for the location and persist both the pictures and the association of the pictures with the pin.
  
   ##### Features 
   _∘ MVVM Design Pattern
