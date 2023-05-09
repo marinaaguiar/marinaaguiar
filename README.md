@@ -25,7 +25,7 @@
   ## Game Tracker 
   _check more details [here](https://github.com/marinaaguiar/GameTracker)_
   
-  ![GameTrackerrApp](https://github.com/marinaaguiar/marinaaguiar/assets/74434212/da9f78b2-2f05-4316-b514-e2c1f095a3af)
+![GameTrackerAppp](https://github.com/marinaaguiar/marinaaguiar/assets/74434212/b450d261-0f40-487b-b8fb-58326266fe67)
 
   This app allows users to search for board games, through different categories.
 It shows detailed info about that game such as the rules, tutorial videos, and more!
