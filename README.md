@@ -26,9 +26,7 @@
   ### Game Tracker 
   
 ![GameTrackerAppp](https://github.com/marinaaguiar/marinaaguiar/assets/74434212/b450d261-0f40-487b-b8fb-58326266fe67)
-
-   _check more details [here](https://github.com/marinaaguiar/GameTracker)_
-
+ 
 This app allows users to search for board games, through different categories. It shows detailed info about that game such as the rules, tutorial videos, and more!
 
 ##### Features 
@@ -40,13 +38,13 @@ This app allows users to search for board games, through different categories. I
   ∘ Swift Package Manager (Framework: KingFisher, MarkdownKit)
   ∘ Data persistence using Realm and UserDefaults
   ∘ Light and Dark Mode support_
+ 
+ _check more details [here](https://github.com/marinaaguiar/GameTracker)_
 
 ### On the Map  
   
 ![OnTheMapApp](https://github.com/marinaaguiar/marinaaguiar/assets/74434212/53c056d6-0267-4d07-926f-2154a03f1b5c)
- 
-  _check more details [here](https://github.com/marinaaguiar/OnTheMapAppUdacity)_
- 
+  
  This app displays a map that shows information posted by other students. The map contains pins that show the location where other students have reported studying. By tapping on the pin users can see the student's website.
 
 ##### Features 
@@ -55,12 +53,12 @@ This app allows users to search for board games, through different categories. I
   ∘ Facebook login
   ∘ Core Location
   ∘ MapKit_
+ 
+ _check more details [here](https://github.com/marinaaguiar/OnTheMapAppUdacity)_
 
  ### Weather App 
  
 ![WeatherApp](https://github.com/marinaaguiar/marinaaguiar/assets/74434212/d6a6bbca-96ad-4753-96b6-eff7ef5bf6d2)
-  
- _check more details [here](https://github.com/marinaaguiar/WeatherApp-MVVM)_
   
   Weather App is a tool that allows users to search for current temperature and weather conditions in their real location or in any other city they look for. Depending on the time of day, the screens will show different colored backgrounds and the icon representation of the given weather condition.  
   
@@ -68,11 +66,12 @@ This app allows users to search for board games, through different categories. I
   _∘ API Request
   ∘ Date customization and time conversion (Data Formatter)
   ∘ CoreLocation_
+ 
+  _check more details [here](https://github.com/marinaaguiar/WeatherApp-MVVM)_
 
   ### Virtual Tourist App 
 
   ![VirtualTouristApp](https://github.com/marinaaguiar/marinaaguiar/assets/74434212/053cd5ba-56e3-4049-b70d-cc99132a588e)
-   _check more details [here](https://github.com/marinaaguiar/VirtualTouristUdacity)_
 
   The Virtual Tourist app downloads and stores images from Flickr. The app allows users to drop pins on a map, as if they were stops on a tour. Users will then be able to download pictures for the location and persist both the pictures and the association of the pictures with the pin.
  
@@ -83,8 +82,8 @@ This app allows users to search for board games, through different categories. I
   ∘ MapKit and Dragging Annotation States
   ∘ UIPressGestureRecognizer
   ∘ Swift Package Manager (Framework: KingFisher)_
-
-
+ 
+   _check more details [here](https://github.com/marinaaguiar/VirtualTouristUdacity)_
 
   
 <!--
