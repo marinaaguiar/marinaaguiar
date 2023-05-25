@@ -39,7 +39,7 @@ This app allows users to search for board games, through different categories. I
   ∘ Data persistence using Realm and UserDefaults
   ∘ Light and Dark Mode support_
  
- _check more details [here](https://github.com/marinaaguiar/GameTracker)_
+ _see more details [here](https://github.com/marinaaguiar/GameTracker)_
 
 ### On the Map  
   
@@ -54,7 +54,7 @@ This app allows users to search for board games, through different categories. I
   ∘ Core Location
   ∘ MapKit_
  
- _check more details [here](https://github.com/marinaaguiar/OnTheMapAppUdacity)_
+ _see more details [here](https://github.com/marinaaguiar/OnTheMapAppUdacity)_
 
  ### Weather App 
  
@@ -69,7 +69,7 @@ This app allows users to search for board games, through different categories. I
   ∘ CoreLocation
   ∘ Unit Test_
  
-  _check more details [here](https://github.com/marinaaguiar/WeatherApp-MVVM)_
+  _see more details [here](https://github.com/marinaaguiar/WeatherApp-MVVM)_
 
   ### Virtual Tourist App 
 
@@ -85,7 +85,7 @@ This app allows users to search for board games, through different categories. I
   ∘ UIPressGestureRecognizer
   ∘ Swift Package Manager (Framework: KingFisher)_
  
-   _check more details [here](https://github.com/marinaaguiar/VirtualTouristUdacity)_
+   _see more details [here](https://github.com/marinaaguiar/VirtualTouristUdacity)_
 
   
 <!--
