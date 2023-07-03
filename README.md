@@ -87,7 +87,21 @@ This app allows users to search for board games, through different categories. I
  
    _see more details [here](https://github.com/marinaaguiar/VirtualTouristUdacity)_
 
-  
+   ### Tic Tac Toe App 
+
+   ![TicTacToe](https://github.com/marinaaguiar/marinaaguiar/assets/74434212/40eea6b6-7f8b-4c31-82bf-6038916d9a7f)
+
+   Tic Tac Toe with a twist! This app offers three challenging levels with expanding boards, providing an exciting gaming experience for players of all skill levels.
+
+   ##### Features 
+  _∘ MVVM Design Pattern
+  ∘ UICollectionView
+  ∘ Swift Package Manager (Framework: Lottie Animations)
+  ∘ Unit Tests_
+
+  _see more details [here](https://github.com/marinaaguiar/TicTacToe)_
+
+
 <!--
 **marinaaguiar/marinaaguiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
