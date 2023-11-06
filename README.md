@@ -12,7 +12,7 @@
 
 ## About
 
-  - 🌎 I'm a brazilian iOS developer currently living in Porto, Portugal
+  - 🌎 I'm a Brazilian iOS developer currently living in Barcelona, Spain
   - 💻 I started dedicating myself to learn iOS Development in 2021
   - 📐 I have a background in architecture
   - 💡 My interest in digital products came up when I started working with visual programming to develop mass customization products
