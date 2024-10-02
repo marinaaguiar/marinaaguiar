@@ -31,6 +31,7 @@
 
 ##### Features 
 
+  ∘ SwiftUI
   ∘ MVVMC Design Pattern
   ∘ ViewCode
   ∘ RESTful API request
