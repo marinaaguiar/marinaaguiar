@@ -16,8 +16,9 @@
   - 💻 I started dedicating myself to learn iOS Development in 2021
   - 📐 I have a background in architecture
   - 💡 My interest in digital products came up when I started working with visual programming to develop mass customization products
-  - 👩🏼‍💻 I'm a lead volunteer in [WomenWhoCode](https://womenwhocode.github.io/london/) with the purpose of helping more women to get into the tech industry and stay
-  - 📱 I'm currently learning Unit Tests and SwiftUI - most of my experience is working with the UIKit framework
+  - 👩🏼‍💻 I've experienced being a lead volunteer in [WomenWhoCode](https://womenwhocode.github.io/london/) with the purpose of helping more women to get into the tech industry and stay
+  - 📱 I'm continuously enhancing my skills in Unit Tests and SwiftUI - most of my experience is working with the UIKit framework
+  - 🚀 I'm currently dedicating myself to learning Java and SpringBoot through the IT Academy to gain a deeper understanding of backend development.
   
   ---
  
