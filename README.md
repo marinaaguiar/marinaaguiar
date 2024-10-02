@@ -23,6 +23,22 @@
  
   ## iOS Projects
 
+  ### Virtual Pet
+
+  ![Banner](https://github.com/user-attachments/assets/c51b4963-f6dc-4cca-bae2-5a4b20999b37)
+
+  Virtual Pet is a mobile application that allows users to adopt and care for a virtual pet. The app is built with SwiftUI for iOS and utilizes a Java-based backend to store and manage pet data, ensuring a dynamic experience for the user. 
+
+##### Features 
+
+  ∘ MVVMC Design Pattern
+  ∘ ViewCode
+  ∘ RESTful API request
+  ∘ Swift Package Manager (Framework: Lotties)
+  ∘ Data persistence using UserDefaults
+  ∘ MongoDB
+  ∘ Java-based backend
+
   ### Game Tracker 
   
 ![GameTrackerAppp](https://github.com/marinaaguiar/marinaaguiar/assets/74434212/b450d261-0f40-487b-b8fb-58326266fe67)
