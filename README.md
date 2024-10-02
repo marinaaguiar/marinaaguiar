@@ -39,6 +39,8 @@
   ∘ MongoDB
   ∘ Java-based backend
 
+   _see more details [here](https://github.com/marinaaguiar/GameTracker)_
+
   ### Game Tracker 
   
 ![GameTrackerAppp](https://github.com/marinaaguiar/marinaaguiar/assets/74434212/b450d261-0f40-487b-b8fb-58326266fe67)
@@ -55,7 +57,7 @@ This app allows users to search for board games, through different categories. I
   ∘ Data persistence using Realm and UserDefaults
   ∘ Light and Dark Mode support_
  
- _see more details [here](https://github.com/marinaaguiar/GameTracker)_
+ _see more details [here]([https://github.com/marinaaguiar/GameTracker](https://github.com/marinaaguiar/ITAcademy-VirtualPet))_
 
 ### On the Map  
   
