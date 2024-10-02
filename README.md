@@ -40,7 +40,7 @@
   ∘ MongoDB
   ∘ Java-based backend
 
-  _see more details [here]([https://github.com/marinaaguiar/GameTracker](https://github.com/marinaaguiar/ITAcademy-VirtualPet))_
+  _see more details [here](https://github.com/marinaaguiar/ITAcademy-VirtualPet)_
 
   ### Game Tracker 
   
